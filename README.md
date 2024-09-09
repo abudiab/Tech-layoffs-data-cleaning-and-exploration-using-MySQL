@@ -1,6 +1,7 @@
 # Tech layoffs data cleaning and data exploration using MySQL
 Tech layoffs dataset from COVID 2019 to 2023
 
+------
 
 Step 1: Setup the environment
 
