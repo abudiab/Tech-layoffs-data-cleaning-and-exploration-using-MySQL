@@ -205,7 +205,7 @@ Lastly, we want to remove the row_num column we added earlier
 
 ![Screenshot 2024-09-08 at 8.29.30 PM.png](Project%201%20Tech%20layoffs%20data%20cleaning%20and%20data%20expl%20ffc72114d07945f9bfc46bfbef8ad9db/Screenshot_2024-09-08_at_8.29.30_PM.png)
 
-[layoffs_data_cleaning.sql](Project%201%20Tech%20layoffs%20data%20cleaning%20and%20data%20expl%20ffc72114d07945f9bfc46bfbef8ad9db/layoffs_data_cleaning.sql)
+
 
 STEP 4: 
 
@@ -244,4 +244,4 @@ More advanced exploration
 
 ![Screenshot 2024-09-09 at 11.43.56 AM.png](Project%201%20Tech%20layoffs%20data%20cleaning%20and%20data%20expl%20ffc72114d07945f9bfc46bfbef8ad9db/Screenshot_2024-09-09_at_11.43.56_AM.png)
 
-[layoffs_data_exploration.sql](Project%201%20Tech%20layoffs%20data%20cleaning%20and%20data%20expl%20ffc72114d07945f9bfc46bfbef8ad9db/layoffs_data_exploration.sql)
+
